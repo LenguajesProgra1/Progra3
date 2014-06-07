@@ -2,8 +2,7 @@ Progra3
 =======
 El formato de carpetas es el siguiente:
 
-.
-.
+
 ├── flask
 │   ├── static
 │   │   ├── css
